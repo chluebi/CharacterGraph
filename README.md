@@ -1,8 +1,8 @@
-# SimpleCombat
-A website to run Tabletop RPG type combat in the browser for free. Created because I was frustrated with the existing offers full of ads and paid subscriptions. Nowadays I would reccomend [Owlbear Rodeo](https://www.owlbear.rodeo).
+# CharacterGraph
+A fork of [here](https://chluebi.github.io/SimpleCombat/) meant to simulate complex character relationships.
 
 # How to Use
-The website is fully static hosted on github [here](https://chluebi.github.io/SimpleCombat/).
+The website is fully static hosted on github 
 
 # How to Host
 It is just a static site. Host it however you want.
